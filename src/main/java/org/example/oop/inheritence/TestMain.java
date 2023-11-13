@@ -6,6 +6,7 @@ import java.util.TreeMap;
 
 public class TestMain {
 
+
     public static void main(String[] args) {
         Manager manager = new Manager(25);
 
